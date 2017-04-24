@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://github.com/ProgrammingCoursesBTH/C_DV1550/raw/master/logo.png">
 </p>
 
-DV1490 - Algorithms and Data Structures
+DV1497 - Programming in C++
 ======
 
-Examples and assignments for DV1490 - Algorithms and Data Structures
+Examples and assignments for DV1497 - Programming in C++
 
 [More courses](https://github.com/ProgrammingCoursesBTH)
 
