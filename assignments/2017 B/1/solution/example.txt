@@ -1,0 +1,9 @@
+Park Lane 331
+Appartment
+1 5000 110 3
+Boulevard of broken dreams
+Studio appartment
+2 1250 40 1
+Somewhere only we know
+House
+5 12000 300 6
