@@ -15,16 +15,24 @@ Examples and assignments for DV1490 - Algorithms and Data Structures
 Each folder in this repository holds a PDF file explaining the assignment. If there are help files present, these will be in "helpFiles.zip". Each folder within the assignment folder is a solution to the assignment, contributed by a student.
 
 ```
-Cpp_DV1490:
+Cpp_DV1497.
 └───assignments
-    └───2017
+    ├───2017
+    │   ├───1
+    │   │       assignment.pdf
+    │   ├───2
+    │   │   │   assignment.pdf
+    │   │   └───solutions...
+    │   └───3
+    │           assignment.pdf
+    └───2017 B
         ├───1
         │   │   assignment.pdf
-        │   │   helpfiles.zip
         │   └───solutions...
-        └───2
+        ├───2
+        │       assignment.pdf
+        └───3
             │   assignment.pdf
-            │   helpfiles.zip
             └───solutions...
 ```
 
