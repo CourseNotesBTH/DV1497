@@ -7,7 +7,8 @@ DV1497 - Programming in C++
 
 Examples and assignments for DV1497 - Programming in C++
 
-[More courses](https://github.com/ProgrammingCoursesBTH)
+[More courses](https://github.com/ProgrammingCoursesBTH) <br />
+See also [Course Notes at BTH](https://github.com/CourseNotesBTH)
 
 # Quickstart
 <a name="quickstart"></a>
